@@ -12,10 +12,12 @@
 * [site](https://6x6ml0o0o3.codesandbox.io/)
 
 ### Modules
-
-
-##### Exported Values and Methods
-
+- `index.js` this renders the app
+- `src/app.js` this holds all of thr elements that are going to be rendered
+- `components/record/people-reducer.js` this file holds the people reducer
+- `components/record/person-reducer.js` this file holds the person reducer
+- `store/actions.js` this holds the actions and the API calls
+- `store/index.js` this file holds the actions to set the reducers
 
 #### UML
-![Whiteboard image for remote APIs](./assets/.jpg)
+![Whiteboard image for remote APIs](./assets/api.jpg)
